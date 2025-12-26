@@ -1,16 +1,15 @@
-## Hi there 👋
+# Prahlad Vivek
 
-<!--
-**prahlad25/prahlad25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics engineer focused on control, learning, and robot dynamics.
 
-Here are some ideas to get you started:
+**Currently:**  
+MS in Mechanical Engineering (Robotics & Control), Columbia University  
+Robotics / Controls Intern @ ASML  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Languages:** C++, Python, MATLAB  
+**Robotics:** ROS2, MuJoCo, Gazebo, Robot Dynamics  
+**Control:** MPC, LQR, Optimal Control, State Estimation  
+**Learning:** Reinforcement Learning (PPO, TD3), Learning-Based Control  
+**Tools:** PyTorch, NumPy, Linux, Git
