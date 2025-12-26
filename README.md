@@ -1,15 +1,10 @@
-# Prahlad Vivek
+## Prahlad Vivek
 
 Robotics engineer focused on control, learning, and robot dynamics.
 
 **Currently:**  
-MS in Mechanical Engineering (Robotics & Control), Columbia University  
-Robotics / Controls Intern @ ASML  
+Robotics @ Columbia University | Robotics Intern @ ASML  
 
-## Skills
-
-**Languages:** C++, Python, MATLAB  
-**Robotics:** ROS2, MuJoCo, Gazebo, Robot Dynamics  
-**Control:** MPC, LQR, Optimal Control, State Estimation  
-**Learning:** Reinforcement Learning (PPO, TD3), Learning-Based Control  
-**Tools:** PyTorch, NumPy, Linux, Git
+**Skills:** <br>
+`C++` `Python` `MATLAB` `ROS2` `MuJoCo` `Gazebo` `Reinforcement Learning` </br>
+`MPC` `State Estimation` `SLAM` `SolidWorks` `MSC ADAMS`
